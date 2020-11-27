@@ -4,12 +4,13 @@ const fs = require('fs');
 const input = require('./input');
 
 const processConst = () => {
+  const appConst = process.argv.slice(2)[0] || 'MY_ACCOUNT_';
   let result = `[
   `;
 
   for (const prop in input) {
     result += `[
-    'uid' => 'MY_ACCOUNT_${prop}',
+    'uid' => '${appConst}${prop}',
     'text' => '${input[prop]}'
    ],
    `;
