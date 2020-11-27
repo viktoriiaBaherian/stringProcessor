@@ -10,5 +10,6 @@ Process string for backend use
 🎉
 
 PS: Originally designed for desktop my-acc
+
 For use with others add desired prefix as argument:
 `node index.js MY_ACC_MOB_`
