@@ -1,0 +1,18 @@
+[
+  [
+    'uid' => 'MY_ACCOUNT_ORG_MANAGE_TEAM_TITLE',
+    'text' => 'Manage Organization'
+   ],
+   [
+    'uid' => 'MY_ACCOUNT_ORG_MANAGE_TEAM_TITLE1',
+    'text' => 'Manage Organization'
+   ],
+   [
+    'uid' => 'MY_ACCOUNT_ORG_MANAGE_TEAM_TITLE2',
+    'text' => 'Manage Organization'
+   ],
+   [
+    'uid' => 'MY_ACCOUNT_ORG_MANAGE_TEAM_TITLE3',
+    'text' => 'Manage Organization'
+   ],
+   ]
